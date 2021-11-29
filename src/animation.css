@@ -1,0 +1,9 @@
+@keyframes goLeft {
+  0% {
+    opacity: 0.55;
+  }
+  100% {
+    left: -500px;
+    opacity: 0.2;
+  }
+}
